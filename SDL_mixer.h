@@ -9,7 +9,7 @@
 #define MIX_MAX_VOLUME		255
 #define Mix_GetError		SDL_GetError
 #define Mix_Music			void
-#define Mix_Chunk			void
+#define Mix_Chunk			sfxhnd_t
 
 //extern struct SDL_RWops;
 
